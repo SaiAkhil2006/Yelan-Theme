@@ -28,10 +28,10 @@ Uploaded project to GitHub for version control and collaboration.
 Prepared the extension for publication to the VS Code Marketplace.
 
 **Screenshots:**
-![Preview Screenshot]()
+![Preview Screenshot](VSYelanTheme.png)
 
 **Installation:**
-git clone https://github.com/your-username/yelan-theme.git
+git clone https://github.com/SaiAkhil2006/Yelan-Theme.git
 cd yelan-theme
 code --install-extension yelan-theme-0.0.1.vsix
 
