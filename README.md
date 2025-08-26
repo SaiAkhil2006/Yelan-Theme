@@ -28,7 +28,7 @@ Uploaded project to GitHub for version control and collaboration.
 Prepared the extension for publication to the VS Code Marketplace.
 
 **Screenshots:**
-![Preview Screenshot]()
+![Preview Screenshot](VSYelanTheme.png)
 
 **Installation:**
 git clone https://github.com/SaiAkhil2006/Yelan-Theme.git
