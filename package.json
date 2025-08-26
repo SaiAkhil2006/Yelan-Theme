@@ -2,7 +2,7 @@
   "name": "yelan-theme",
   "displayName": "Yelan Dark Theme",
   "description": "A mystic dark theme for VS Code inspired by Yelan from Genshin Impact, blending aqua tones and violet accents.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "SaiAkhilKarra",
   "engines": {
     "vscode": "^1.90.0"
