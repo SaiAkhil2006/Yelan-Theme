@@ -28,12 +28,11 @@ Uploaded project to GitHub for version control and collaboration.
 Prepared the extension for publication to the VS Code Marketplace.
 
 **Screenshots:**
-![Preview Screenshot](VSYelanTheme.png)
+<img width="1493" height="837" alt="image" src="https://github.com/user-attachments/assets/291efe80-d6c6-44aa-a34c-eefaeadada7d" />
 
 **Installation:**
-git clone https://github.com/SaiAkhil2006/Yelan-Theme.git
-cd yelan-theme
-code --install-extension yelan-theme-0.0.1.vsix
+Search for "Yelan Theme Dark" in VS Code Extensions Marketplace
+Click install and change the theme to use it.
 
 **License:**
 This project is licensed under the MIT License.
